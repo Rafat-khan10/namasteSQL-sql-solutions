@@ -14,6 +14,7 @@ SQL solutions to NamasteSQL problems (Easy & Medium).
 | Difficulty | Solved |
 |------------|--------|
 | Easy       |    7   |
+| Medium     |    1   |
 
 ## 🔗 Profile
 [My NamasteSQL Profile] (https://www.namastesql.com/my-profile)
