@@ -13,7 +13,7 @@ SQL solutions to NamasteSQL problems (Easy & Medium).
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 1   |
+| Easy       |    7   |
 
 ## 🔗 Profile
 [My NamasteSQL Profile] (https://www.namastesql.com/my-profile)
